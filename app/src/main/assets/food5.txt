@@ -1,0 +1,5 @@
+Bread
+Dairy_product
+Dessert
+Egg
+Fried_food
